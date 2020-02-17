@@ -1,0 +1,41 @@
+﻿.swagger-ui .topbar {
+    background-color: white;
+}
+    .swagger-ui .scheme-container {
+        background-color: #ddd3;
+    }
+    .swagger-ui label {
+        color: #ffffff;
+    }
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    /*border-color:#f6f194;*/
+    border-color: black;
+}
+.swagger-ui .topbar .topbar-wrapper .link {
+    background-image: url("logo.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    height: 40px;
+}
+.swagger-ui .topbar .topbar-wrapper .link img, .swagger-ui .topbar .topbar-wrapper .link span {
+    display: none;
+}
+.swagger-ui .btn.authorize {
+    color: black;
+    border-color: black;
+}
+
+        .swagger-ui .btn.authorize svg {
+            fill: black;
+        }
+
+    .swagger-ui .info .title {
+        color: black;
+    }
+        .swagger-ui .info .title small pre {
+            color: black;
+        }
+        .swagger-ui .info .title small {
+            background: white;
+            text-align: center;
+        }
